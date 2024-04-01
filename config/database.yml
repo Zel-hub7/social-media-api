@@ -37,3 +37,4 @@ production:
   database: social_media_api_production
   username: social_media_api
   password: 1234
+  
